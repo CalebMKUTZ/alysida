@@ -31,19 +31,10 @@ public:
 
     std::string CalcSha256() {
         CSHA256 sha;
-        std::string block_data = ToString();
+        std::string block_data = ToJSON();
         return sha.sha256(block_data);
     }
-
-    std::string ToString() {
-        std::stringstream s;
-        s << timestamp << prev_hash << hash << merkle << size << nonce;
-        for (int i = 0; i < transactions.size(); ++i) {
-            s << transactions[i];
-        }
-        return s.str();
-    }
-
+    
     std::string ToJSON() {
         json j;
         j["timestamp"] = timestamp;

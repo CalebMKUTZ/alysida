@@ -380,12 +380,88 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/write_batch_base.h \
   /home/calebkutz/Documents/C++/projects/alysida/src/helper.h \
   /home/calebkutz/Documents/C++/projects/alysida/src/transaction.h \
+  /home/calebkutz/Documents/C++/projects/alysida/src/private_key.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/evp.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ossl_typ.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/symhacks.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bio.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/crypto.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/safestack.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/stack.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/cryptoerr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bioerr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/evperr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/objects.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/obj_mac.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/asn1.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/asn1err.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bn.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bnerr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/objectserr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ecdsa.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ec.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ecerr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pem.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/buffer.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/buffererr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/rsa.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/rsaerr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dsa.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dh.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dherr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dsaerr.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509err.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509_vfy.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/lhash.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pkcs7.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pkcs7err.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pemerr.h \
   /home/calebkutz/Documents/C++/projects/alysida/src/merkle_tree.h \
   /home/calebkutz/Documents/C++/projects/alysida/src/db/database.h \
-  /home/calebkutz/Documents/C++/projects/alysida/src/transaction.h
+  /home/calebkutz/Documents/C++/projects/alysida/src/transaction.h \
+  /home/calebkutz/Documents/C++/projects/alysida/src/private_key.h
 
 
 /home/calebkutz/Documents/C++/projects/alysida/src/merkle_tree.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509err.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dsaerr.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dherr.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dh.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/dsa.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/rsa.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/buffererr.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/buffer.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ecerr.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ec.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/objectserr.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bn.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/objects.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ecdsa.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/stack.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/symhacks.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ossl_typ.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/evp.h:
 
 /home/calebkutz/Documents/C++/projects/alysida/src/helper.h:
 
@@ -415,6 +491,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/options.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bnerr.h:
+
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/metadata.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/compression_type.h:
@@ -443,6 +521,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/quoted_string.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/cryptoerr.h:
+
 /usr/include/c++/12.2.0/bits/locale_conv.h:
 
 /usr/include/c++/12.2.0/bits/locale_facets_nonio.tcc:
@@ -456,6 +536,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/opensslconf.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/sha.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/rsaerr.h:
 
 /home/calebkutz/Documents/C++/projects/alysida/src/sha256.h:
 
@@ -507,6 +589,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/cmath:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/asn1.h:
+
 /usr/include/c++/12.2.0/stdlib.h:
 
 /usr/include/c++/12.2.0/tr1/gamma.tcc:
@@ -529,6 +613,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/stl_relops.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509_vfy.h:
+
 /usr/include/c++/12.2.0/utility:
 
 /usr/include/c++/12.2.0/numeric:
@@ -544,6 +630,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/bits/std_mutex.h:
 
 /usr/include/x86_64-linux-gnu/sys/syscall.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/crypto.h:
 
 /usr/include/linux/close_range.h:
 
@@ -601,6 +689,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bioerr.h:
+
 /usr/include/c++/12.2.0/bits/utility.h:
 
 /usr/include/c++/12.2.0/ext/type_traits.h:
@@ -620,6 +710,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/istream:
 
 /usr/include/locale.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/lhash.h:
 
 /usr/include/c++/12.2.0/bits/stl_numeric.h:
 
@@ -753,6 +845,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pkcs7err.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/include/c++/12.2.0/bits/stream_iterator.h:
@@ -811,6 +905,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/ext/concurrence.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pemerr.h:
+
 /usr/include/c++/12.2.0/bits/nested_exception.h:
 
 /usr/include/c++/12.2.0/debug/assertions.h:
@@ -824,6 +920,10 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/tr1/bessel_function.tcc:
 
 /usr/include/c++/12.2.0/iosfwd:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/obj_mac.h:
+
+/home/calebkutz/Documents/C++/projects/alysida/src/private_key.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
@@ -901,6 +1001,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/stringfwd.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pem.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /usr/include/c++/12.2.0/bits/basic_ios.h:
@@ -912,6 +1014,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/bits/valarray_array.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/safestack.h:
 
 /usr/include/c++/12.2.0/string:
 
@@ -1027,6 +1131,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/uses_allocator.h:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/pkcs7.h:
+
 /usr/include/c++/12.2.0/bits/charconv.h:
 
 /usr/include/c++/12.2.0/stdexcept:
@@ -1095,11 +1201,17 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/functional:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/evperr.h:
+
 /usr/include/c++/12.2.0/tuple:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/asn1err.h:
 
 /usr/include/c++/12.2.0/unordered_map:
 
 /usr/include/c++/12.2.0/ext/aligned_buffer.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bio.h:
 
 /usr/include/c++/12.2.0/tr1/hypergeometric.tcc:
 

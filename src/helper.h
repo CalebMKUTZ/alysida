@@ -5,8 +5,7 @@
 #include <ctime>
 
 namespace helper {
-time_t h_UseTime() 
-{
+time_t h_UseTime() {
     time_t current_time;
     time(&current_time);
     return current_time;
