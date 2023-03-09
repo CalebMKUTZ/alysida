@@ -193,15 +193,29 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
   /usr/include/c++/12.2.0/bits/ostream.tcc \
   /usr/include/c++/12.2.0/istream \
   /usr/include/c++/12.2.0/bits/istream.tcc \
-  /home/calebkutz/Documents/C++/projects/alysida/src/block.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/logging.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/c++/12.2.0/sstream \
+  /usr/include/c++/12.2.0/bits/sstream.tcc \
+  /usr/include/unistd.h \
+  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+  /usr/include/x86_64-linux-gnu/bits/environments.h \
+  /usr/include/x86_64-linux-gnu/bits/confname.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+  /usr/include/linux/close_range.h \
   /usr/include/c++/12.2.0/vector \
   /usr/include/c++/12.2.0/bits/stl_uninitialized.h \
   /usr/include/c++/12.2.0/bits/stl_vector.h \
   /usr/include/c++/12.2.0/bits/stl_bvector.h \
   /usr/include/c++/12.2.0/bits/vector.tcc \
+  /usr/include/inttypes.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/log_severity.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/vlog_is_on.h \
+  /home/calebkutz/Documents/C++/projects/alysida/src/block.h \
   /usr/include/c++/12.2.0/ctime \
-  /usr/include/c++/12.2.0/sstream \
-  /usr/include/c++/12.2.0/bits/sstream.tcc \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/nlohmann/json.hpp \
   /usr/include/c++/12.2.0/algorithm \
   /usr/include/c++/12.2.0/bits/stl_algo.h \
@@ -255,14 +269,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /usr/include/unistd.h \
-  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
-  /usr/include/x86_64-linux-gnu/bits/environments.h \
-  /usr/include/x86_64-linux-gnu/bits/confname.h \
-  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
-  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
-  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
-  /usr/include/linux/close_range.h \
   /usr/include/syscall.h \
   /usr/include/x86_64-linux-gnu/sys/syscall.h \
   /usr/include/x86_64-linux-gnu/asm/unistd.h \
@@ -321,8 +327,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
   /usr/include/c++/12.2.0/bits/mask_array.h \
   /usr/include/c++/12.2.0/bits/indirect_array.h \
   /usr/include/c++/12.2.0/cstring \
-  /usr/include/string.h \
-  /usr/include/strings.h \
+  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rang.hpp \
+  /usr/include/c++/12.2.0/atomic \
   /home/calebkutz/Documents/C++/projects/alysida/src/sha256.h \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/sha.h \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/e_os2.h \
@@ -369,7 +375,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/sst_partitioner.h \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/version.h \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/write_buffer_manager.h \
-  /usr/include/c++/12.2.0/atomic \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/cache.h \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/memory_allocator.h \
   /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/statistics.h \
@@ -420,7 +425,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
   /home/calebkutz/Documents/C++/projects/alysida/src/merkle_tree.h \
   /home/calebkutz/Documents/C++/projects/alysida/src/db/database.h \
   /home/calebkutz/Documents/C++/projects/alysida/src/transaction.h \
-  /home/calebkutz/Documents/C++/projects/alysida/src/private_key.h
+  /home/calebkutz/Documents/C++/projects/alysida/src/private_key.h \
+  /home/calebkutz/Documents/C++/projects/alysida/src/wallet.h
 
 
 /home/calebkutz/Documents/C++/projects/alysida/src/merkle_tree.h:
@@ -440,8 +446,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/buffererr.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/buffer.h:
-
-/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/ecerr.h:
 
@@ -468,8 +472,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/transaction_log.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/sst_file_writer.h:
-
-/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/snapshot.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/cache.h:
 
@@ -541,9 +543,9 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /home/calebkutz/Documents/C++/projects/alysida/src/sha256.h:
 
-/usr/include/strings.h:
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/x509.h:
 
-/usr/include/string.h:
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rang.hpp:
 
 /usr/include/c++/12.2.0/bits/indirect_array.h:
 
@@ -631,17 +633,25 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/x86_64-linux-gnu/sys/syscall.h:
 
-/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/crypto.h:
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
-/usr/include/linux/close_range.h:
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
+/usr/include/linux/limits.h:
 
-/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
 
-/usr/include/x86_64-linux-gnu/bits/confname.h:
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/limits.h:
+
+/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/syslimits.h:
+
+/usr/include/c++/12.2.0/climits:
 
 /usr/include/c++/12.2.0/debug/debug.h:
+
+/usr/include/x86_64-linux-gnu/bits/confname.h:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/memory_allocator.h:
 
@@ -677,6 +687,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
+/usr/include/strings.h:
+
 /usr/include/c++/12.2.0/bits/max_size_type.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
@@ -694,6 +706,14 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/bits/utility.h:
 
 /usr/include/c++/12.2.0/ext/type_traits.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bio.h:
+
+/usr/include/c++/12.2.0/tr1/hypergeometric.tcc:
+
+/usr/include/c++/12.2.0/bits/atomic_wait.h:
+
+/usr/include/c++/12.2.0/bits/stl_tempbuf.h:
 
 /usr/include/c++/12.2.0/bits/std_abs.h:
 
@@ -743,10 +763,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/string_view.tcc:
 
-/usr/include/linux/limits.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
-
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
 /usr/include/c++/12.2.0/x86_64-unknown-linux-gnu/bits/gthr-default.h:
@@ -755,15 +771,11 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/functexcept.h:
 
-/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/syslimits.h:
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/snapshot.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/log_severity.h:
 
 /usr/include/c++/12.2.0/x86_64-unknown-linux-gnu/bits/atomic_word.h:
-
-/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
-
-/usr/include/x86_64-linux-gnu/bits/setjmp.h:
-
-/usr/include/time.h:
 
 /usr/include/c++/12.2.0/bits/gslice_array.h:
 
@@ -850,8 +862,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/include/c++/12.2.0/bits/stream_iterator.h:
-
-/usr/include/x86_64-linux-gnu/bits/local_lim.h:
 
 /usr/include/c++/12.2.0/bits/ostream_insert.h:
 
@@ -949,6 +959,10 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
+/usr/include/inttypes.h:
+
+/home/calebkutz/Documents/C++/projects/alysida/src/wallet.h:
+
 /usr/include/c++/12.2.0/bits/stl_algobase.h:
 
 /usr/include/c++/12.2.0/bits/std_function.h:
@@ -1027,6 +1041,12 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/move.h:
 
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
+
 /home/calebkutz/Documents/C++/projects/alysida/main.cpp:
 
 /usr/include/c++/12.2.0/x86_64-unknown-linux-gnu/bits/ctype_inline.h:
@@ -1042,6 +1062,10 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/bits/invoke.h:
 
 /usr/include/c++/12.2.0/bits/basic_string.h:
+
+/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/limits.h:
+
+/usr/include/c++/12.2.0/bits/sstream.tcc:
 
 /usr/include/c++/12.2.0/ext/alloc_traits.h:
 
@@ -1095,6 +1119,10 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/vector.tcc:
 
+/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
+
+/home/calebkutz/Documents/C++/projects/alysida/src/block.h:
+
 /usr/include/alloca.h:
 
 /usr/include/stdio.h:
@@ -1103,9 +1131,9 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
 
-/usr/include/c++/12.2.0/climits:
-
 /usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/string.h:
 
 /usr/include/c++/12.2.0/locale:
 
@@ -1137,6 +1165,8 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/stdexcept:
 
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/logging.h:
+
 /usr/include/c++/12.2.0/streambuf:
 
 /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/e_os2.h:
@@ -1153,17 +1183,21 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/ostream.tcc:
 
-/home/calebkutz/Documents/C++/projects/alysida/src/block.h:
-
-/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
-
 /usr/include/wctype.h:
 
 /usr/include/sched.h:
 
 /usr/include/c++/12.2.0/bits/istream.tcc:
 
-/usr/include/limits.h:
+/usr/include/x86_64-linux-gnu/bits/environments.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
+
+/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/crypto.h:
+
+/usr/include/linux/close_range.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
 
@@ -1175,11 +1209,13 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/bits/stl_bvector.h:
 
-/usr/include/c++/12.2.0/ctime:
-
 /usr/include/c++/12.2.0/x86_64-unknown-linux-gnu/bits/time_members.h:
 
 /usr/include/c++/12.2.0/sstream:
+
+/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/vlog_is_on.h:
+
+/usr/include/c++/12.2.0/ctime:
 
 /usr/include/c++/12.2.0/algorithm:
 
@@ -1211,14 +1247,6 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 
 /usr/include/c++/12.2.0/ext/aligned_buffer.h:
 
-/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/bio.h:
-
-/usr/include/c++/12.2.0/tr1/hypergeometric.tcc:
-
-/usr/include/c++/12.2.0/bits/stl_tempbuf.h:
-
-/usr/include/c++/12.2.0/bits/atomic_wait.h:
-
 /usr/include/c++/12.2.0/bits/hashtable.h:
 
 /usr/include/c++/12.2.0/tr1/modified_bessel_func.tcc:
@@ -1246,13 +1274,3 @@ CMakeFiles/aly.dir/main.cpp.o: /home/calebkutz/Documents/C++/projects/alysida/ma
 /usr/include/c++/12.2.0/bits/shared_ptr_base.h:
 
 /usr/include/c++/12.2.0/bits/shared_ptr_atomic.h:
-
-/usr/include/c++/12.2.0/bits/sstream.tcc:
-
-/usr/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/limits.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/environments.h:

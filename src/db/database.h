@@ -8,9 +8,9 @@
 class CDatabase
 {
 public:
-    CDatabase() {
+    CDatabase(std::string path) {
         this->options.create_if_missing = true;
-        this->status = rocksdb::DB::Open(options, "/tmp/db", &db);
+        this->status = rocksdb::DB::Open(options, path, &db);
         if (!status.ok()) {
             std::cerr << status.ToString() << "\n";
         }

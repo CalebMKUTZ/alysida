@@ -1,16 +1,22 @@
 #include <iostream>
+#include <glog/logging.h>
 #include "src/block.h"
 #include "src/db/database.h"
 #include "src/transaction.h"
 #include "src/private_key.h"
+#include "src/wallet.h"
 
 int main()
 {
-    CPrivateKey priv_key;
-    CTransaction tx1("example_sender1", "example_rec2", 10);
-    tx1.Sign(priv_key);
+    CDatabase db("./tmp/alysidadb");
 
-    std::string tx_json = tx1.ToJSON();
-    std::cout << tx_json << "\n";
+    CWallet wallet1("Caleb");
+    CWallet wallet2("Jane");
+
+    wallet1.Send(wallet1.GetWalletAddress(), wallet2.GetWalletAddress(), 10);
+
+    // CBlock block("genesis", {"hello", "world"});
+    // block.RunPoW(db);
+
     return 0;
 }

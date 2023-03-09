@@ -194,15 +194,29 @@ CMakeFiles/aly.dir/main.cpp.o
  /usr/include/c++/12.2.0/bits/ostream.tcc
  /usr/include/c++/12.2.0/istream
  /usr/include/c++/12.2.0/bits/istream.tcc
- /home/calebkutz/Documents/C++/projects/alysida/src/block.h
+ /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/logging.h
+ /usr/include/string.h
+ /usr/include/strings.h
+ /usr/include/c++/12.2.0/sstream
+ /usr/include/c++/12.2.0/bits/sstream.tcc
+ /usr/include/unistd.h
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h
+ /usr/include/x86_64-linux-gnu/bits/environments.h
+ /usr/include/x86_64-linux-gnu/bits/confname.h
+ /usr/include/x86_64-linux-gnu/bits/getopt_posix.h
+ /usr/include/x86_64-linux-gnu/bits/getopt_core.h
+ /usr/include/x86_64-linux-gnu/bits/unistd_ext.h
+ /usr/include/linux/close_range.h
  /usr/include/c++/12.2.0/vector
  /usr/include/c++/12.2.0/bits/stl_uninitialized.h
  /usr/include/c++/12.2.0/bits/stl_vector.h
  /usr/include/c++/12.2.0/bits/stl_bvector.h
  /usr/include/c++/12.2.0/bits/vector.tcc
+ /usr/include/inttypes.h
+ /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/log_severity.h
+ /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/glog/vlog_is_on.h
+ /home/calebkutz/Documents/C++/projects/alysida/src/block.h
  /usr/include/c++/12.2.0/ctime
- /usr/include/c++/12.2.0/sstream
- /usr/include/c++/12.2.0/bits/sstream.tcc
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/nlohmann/json.hpp
  /usr/include/c++/12.2.0/algorithm
  /usr/include/c++/12.2.0/bits/stl_algo.h
@@ -256,14 +270,6 @@ CMakeFiles/aly.dir/main.cpp.o
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h
- /usr/include/unistd.h
- /usr/include/x86_64-linux-gnu/bits/posix_opt.h
- /usr/include/x86_64-linux-gnu/bits/environments.h
- /usr/include/x86_64-linux-gnu/bits/confname.h
- /usr/include/x86_64-linux-gnu/bits/getopt_posix.h
- /usr/include/x86_64-linux-gnu/bits/getopt_core.h
- /usr/include/x86_64-linux-gnu/bits/unistd_ext.h
- /usr/include/linux/close_range.h
  /usr/include/syscall.h
  /usr/include/x86_64-linux-gnu/sys/syscall.h
  /usr/include/x86_64-linux-gnu/asm/unistd.h
@@ -322,8 +328,8 @@ CMakeFiles/aly.dir/main.cpp.o
  /usr/include/c++/12.2.0/bits/mask_array.h
  /usr/include/c++/12.2.0/bits/indirect_array.h
  /usr/include/c++/12.2.0/cstring
- /usr/include/string.h
- /usr/include/strings.h
+ /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rang.hpp
+ /usr/include/c++/12.2.0/atomic
  /home/calebkutz/Documents/C++/projects/alysida/src/sha256.h
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/sha.h
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/openssl/e_os2.h
@@ -370,7 +376,6 @@ CMakeFiles/aly.dir/main.cpp.o
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/sst_partitioner.h
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/version.h
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/write_buffer_manager.h
- /usr/include/c++/12.2.0/atomic
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/cache.h
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/memory_allocator.h
  /home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/include/rocksdb/statistics.h
@@ -422,4 +427,5 @@ CMakeFiles/aly.dir/main.cpp.o
  /home/calebkutz/Documents/C++/projects/alysida/src/db/database.h
  /home/calebkutz/Documents/C++/projects/alysida/src/transaction.h
  /home/calebkutz/Documents/C++/projects/alysida/src/private_key.h
+ /home/calebkutz/Documents/C++/projects/alysida/src/wallet.h
 

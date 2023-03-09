@@ -6,6 +6,7 @@
 #include <ctime>
 #include <sstream>
 #include <nlohmann/json.hpp>
+#include <rang.hpp>
 #include "sha256.h"
 #include "db/database.h"
 #include "helper.h"
@@ -15,6 +16,7 @@
 #define TARGET_ZEROES 2
 
 using json = nlohmann::json;
+using namespace rang;
 
 class CBlock 
 {
@@ -50,12 +52,13 @@ public:
     void RunPoW(CDatabase db) {
         while (true) {
             if (hash.substr(0, TARGET_ZEROES) == std::string("0", TARGET_ZEROES)) {
-                std::cout << "block mined: " << hash << "\n";
+                std::cout << fg::green << "block mined: " << hash << fg::reset << "\n";
                 db.PutBlock(hash, ToJSON());
                 break;
             } else {
                 hash = CalcSha256();
-                std::cout << hash << "\t\t\t" << "nonce = " << nonce << "\n";
+                // !make sure you clear the screen in PROD
+                std::cout << fg::yellow <<  hash << "\t\t\t" << "nonce = " << nonce << fg::reset << "\n";
                 nonce++;
             }
         }

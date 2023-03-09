@@ -263,8 +263,14 @@ aly_SOURCE_DIR:STATIC=/home/calebkutz/Documents/C++/projects/alysida
 //The directory containing a CMake configuration file for asio.
 asio_DIR:PATH=/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/lib/cmake/asio
 
+//The directory containing a CMake configuration file for glog.
+glog_DIR:PATH=/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/lib/cmake/glog
+
 //The directory containing a CMake configuration file for nlohmann_json.
 nlohmann_json_DIR:PATH=/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/lib/cmake/nlohmann_json
+
+//The directory containing a CMake configuration file for rang.
+rang_DIR:PATH=/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/lib/cmake/rang
 
 //The directory containing a CMake configuration file for sqlite3.
 sqlite3_DIR:PATH=/home/calebkutz/.hunter/_Base/3319fe6/3e0f51c/65f8faa/Install/lib/cmake/sqlite3
